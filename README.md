@@ -23,3 +23,10 @@ This project analyzes retail store sales data and builds an interactive Power BI
 ## 🎯 Outcome
 The dashboard helps business teams make better decisions based on customer and product insights.# Retail-Sales-Dashboard-PowerBI
 Retail sales data analyzed to build an interactive Power BI dashboard.
+---
+
+## 📊 Dashboard Screenshot
+
+Below is the screenshot of the Power BI dashboard created for this project:
+
+![Retail Sales Dashboard](file_00000002048720...)
